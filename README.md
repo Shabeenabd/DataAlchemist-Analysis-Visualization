@@ -30,7 +30,7 @@ My SQL-driven journey into COVID-19 data analysis has been an enlightening adven
 In a world where information is a guiding light, my SQL project has illuminated the path forward, proving the remarkable impact of technology and data-driven insights in the face of global adversity.
 
 -------------------------------------------------------------------------------
-2) Title: Illuminating Insights Visualizing COVID-19 Data with Tableau
+2)  Visualizing COVID-19 Data with Tableau
 
 In a world grappling with a global pandemic, harnessing the power of data visualization becomes paramount. Enter Tableau, a tool that transforms raw COVID-19 statistics into captivating visual stories. This data visualization journey brings to life the intricate patterns, trends, and impacts of the virus, enabling us to comprehend the unseen through compelling visuals.
 
@@ -55,4 +55,5 @@ Data cleaning in SQL involves a series of precise steps:
 - Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
 - Resolving Duplicates: Detecting and eliminating duplicate entries maintains data integrity and prevents skewing results.
 - Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
+ 
   -------------------------------------------------------------------------------
