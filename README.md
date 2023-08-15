@@ -1,7 +1,7 @@
 # Portfolio_Projects
 **1)  My COVID-19 Data Analysis Journey with SQL**
 
-     In a world shaped by the pandemic, I embarked on a compelling journey of data exploration, armed with SQL as my compass. My project revolved around analyzing COVID-19 data, unraveling patterns and insights hidden within the numbers.
+ In a world shaped by the pandemic, I embarked on a compelling journey of data exploration, armed with SQL as my compass. My project revolved around analyzing COVID-19 data, unraveling patterns and insights hidden within the numbers.
 
 **Project Essence:**
 With SQL, I delved into the heart of COVID-19 data, extracting meaningful information from its chaotic sea. The project encompassed cleaning, transforming, and querying the data to gain clarity on how the virus had impacted our lives.
