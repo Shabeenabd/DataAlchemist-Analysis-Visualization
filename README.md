@@ -1,7 +1,7 @@
 # Portfolio_Projects
-**1): Unveiling Insights: My COVID-19 Data Analysis Journey with SQL**
+**1) Unveiling Insights: My COVID-19 Data Analysis Journey with SQL**
 
-In a world shaped by the pandemic, I embarked on a compelling journey of data exploration, armed with SQL as my compass. My project revolved around analyzing COVID-19 data, unraveling patterns and insights hidden within the numbers.
+  In a world shaped by the pandemic, I embarked on a compelling journey of data exploration, armed with SQL as my compass. My project revolved around analyzing COVID-19 data, unraveling patterns and insights hidden within the numbers.
 
 **Project Essence:**
 With SQL, I delved into the heart of COVID-19 data, extracting meaningful information from its chaotic sea. The project encompassed cleaning, transforming, and querying the data to gain clarity on how the virus had impacted our lives.
@@ -34,8 +34,8 @@ In a world where information is a guiding light, my SQL project has illuminated 
 In the world of data analysis, the journey often begins with raw, unrefined data. Enter data cleaning in SQL—a meticulous process that transforms a cluttered dataset into a polished gem of insights. With housing data as the canvas, this practice becomes paramount to revealing accurate trends and making informed decisions.
 
 Data cleaning in SQL involves a series of precise steps:
-*Handling Missing Values: Detecting and filling or removing missing values ensures the integrity of the dataset, preventing skewed analysis.
-*Addressing Outliers: Identifying and managing outliers maintains the dataset's reliability by reducing the impact of anomalies.
-*Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
-*Resolving Duplicates: Detecting and eliminating duplicate entries maintains data integrity and prevents skewing results.
-*Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
+1.Handling Missing Values: Detecting and filling or removing missing values ensures the integrity of the dataset, preventing skewed analysis.
+2.Addressing Outliers: Identifying and managing outliers maintains the dataset's reliability by reducing the impact of anomalies.
+3.Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
+4.Resolving Duplicates: Detecting and eliminating duplicate entries maintains data integrity and prevents skewing results.
+5.Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
