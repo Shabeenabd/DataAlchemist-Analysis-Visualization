@@ -43,6 +43,7 @@ Public Awareness: Interactive visuals demystify data for the general public, enh
 Resource Allocation: Geospatial insights guide targeted resource allocation, directing efforts where they are needed most.
 Scientific Insights: Data visualization unveils patterns that researchers can harness for deeper scientific understanding.
 
+-------------------------------------------------------------------------------
 3)  Data Cleaning in SQL for Housing Data
 
 In the world of data analysis, the journey often begins with raw, unrefined data. Enter data cleaning in SQL—a meticulous process that transforms a cluttered dataset into a polished gem of insights. With housing data as the canvas, this practice becomes paramount to revealing accurate trends and making informed decisions.
@@ -54,3 +55,4 @@ Data cleaning in SQL involves a series of precise steps:
 - Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
 - Resolving Duplicates: Detecting and eliminating duplicate entries maintains data integrity and prevents skewing results.
 - Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
+  -------------------------------------------------------------------------------
