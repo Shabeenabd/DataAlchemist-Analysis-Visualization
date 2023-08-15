@@ -1,7 +1,7 @@
 # Portfolio_Projects
-**1) Unveiling Insights: My COVID-19 Data Analysis Journey with SQL**
+**1)  My COVID-19 Data Analysis Journey with SQL**
 
-  In a world shaped by the pandemic, I embarked on a compelling journey of data exploration, armed with SQL as my compass. My project revolved around analyzing COVID-19 data, unraveling patterns and insights hidden within the numbers.
+     In a world shaped by the pandemic, I embarked on a compelling journey of data exploration, armed with SQL as my compass. My project revolved around analyzing COVID-19 data, unraveling patterns and insights hidden within the numbers.
 
 **Project Essence:**
 With SQL, I delved into the heart of COVID-19 data, extracting meaningful information from its chaotic sea. The project encompassed cleaning, transforming, and querying the data to gain clarity on how the virus had impacted our lives.
@@ -28,7 +28,9 @@ My COVID-19 data analysis using SQL uncovered significant insights:
 My SQL-driven journey into COVID-19 data analysis has been an enlightening adventure. As the world grapples with the pandemic's uncertainties, my project stands as a testament to the power of data analysis in navigating complex challenges and making informed decisions that shape our present and future.
 
 In a world where information is a guiding light, my SQL project has illuminated the path forward, proving the remarkable impact of technology and data-driven insights in the face of global adversity.
-2) Title: Illuminating Insights: Visualizing COVID-19 Data with Tableau
+
+
+2) Title: Illuminating Insights Visualizing COVID-19 Data with Tableau
 
 In a world grappling with a global pandemic, harnessing the power of data visualization becomes paramount. Enter Tableau, a tool that transforms raw COVID-19 statistics into captivating visual stories. This data visualization journey brings to life the intricate patterns, trends, and impacts of the virus, enabling us to comprehend the unseen through compelling visuals.
 
@@ -41,7 +43,7 @@ Public Awareness: Interactive visuals demystify data for the general public, enh
 Resource Allocation: Geospatial insights guide targeted resource allocation, directing efforts where they are needed most.
 Scientific Insights: Data visualization unveils patterns that researchers can harness for deeper scientific understanding.
 
-(3)  Data Cleaning in SQL for Housing Data
+3)  Data Cleaning in SQL for Housing Data
 
 In the world of data analysis, the journey often begins with raw, unrefined data. Enter data cleaning in SQL—a meticulous process that transforms a cluttered dataset into a polished gem of insights. With housing data as the canvas, this practice becomes paramount to revealing accurate trends and making informed decisions.
 
