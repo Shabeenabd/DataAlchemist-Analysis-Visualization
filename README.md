@@ -35,8 +35,8 @@ In the world of data analysis, the journey often begins with raw, unrefined data
 
 Data cleaning in SQL involves a series of precise steps:
 
-1.Handling Missing Values: Detecting and filling or removing missing values ensures the integrity of the dataset, preventing skewed analysis.
-2.Addressing Outliers: Identifying and managing outliers maintains the dataset's reliability by reducing the impact of anomalies.
-3.Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
-4.Resolving Duplicates: Detecting and eliminating duplicate entries maintains data integrity and prevents skewing results.
-5.Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
+- Handling Missing Values: Detecting and filling or removing missing values ensures the integrity of the dataset, preventing skewed analysis.
+- Addressing Outliers: Identifying and managing outliers maintains the dataset's reliability by reducing the impact of anomalies.
+- Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
+- Resolving Duplicates: Detecting and eliminating duplicate entries maintains data integrity and prevents skewing results.
+- Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
