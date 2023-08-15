@@ -33,7 +33,7 @@ In a world where information is a guiding light, my SQL project has illuminated 
 
 In the world of data analysis, the journey often begins with raw, unrefined data. Enter data cleaning in SQL—a meticulous process that transforms a cluttered dataset into a polished gem of insights. With housing data as the canvas, this practice becomes paramount to revealing accurate trends and making informed decisions.
 
-Data cleaning in SQL involves a series of precise steps:
+Data cleaning in SQL involves a series of precise steps:**
 1.Handling Missing Values: Detecting and filling or removing missing values ensures the integrity of the dataset, preventing skewed analysis.
 2.Addressing Outliers: Identifying and managing outliers maintains the dataset's reliability by reducing the impact of anomalies.
 3.Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
