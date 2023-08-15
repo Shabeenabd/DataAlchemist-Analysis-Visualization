@@ -28,6 +28,18 @@ My COVID-19 data analysis using SQL uncovered significant insights:
 My SQL-driven journey into COVID-19 data analysis has been an enlightening adventure. As the world grapples with the pandemic's uncertainties, my project stands as a testament to the power of data analysis in navigating complex challenges and making informed decisions that shape our present and future.
 
 In a world where information is a guiding light, my SQL project has illuminated the path forward, proving the remarkable impact of technology and data-driven insights in the face of global adversity.
+2) Title: Illuminating Insights: Visualizing COVID-19 Data with Tableau
+
+In a world grappling with a global pandemic, harnessing the power of data visualization becomes paramount. Enter Tableau, a tool that transforms raw COVID-19 statistics into captivating visual stories. This data visualization journey brings to life the intricate patterns, trends, and impacts of the virus, enabling us to comprehend the unseen through compelling visuals.
+
+Impact of Visualization:
+
+The power of data visualization in Tableau is transformative:
+
+Informed Decision-Making: Visual insights empower decision-makers with the ability to understand complex data quickly and make evidence-based choices.
+Public Awareness: Interactive visuals demystify data for the general public, enhancing awareness and understanding of the pandemic's complexities.
+Resource Allocation: Geospatial insights guide targeted resource allocation, directing efforts where they are needed most.
+Scientific Insights: Data visualization unveils patterns that researchers can harness for deeper scientific understanding.
 
 (3)  Data Cleaning in SQL for Housing Data
 
