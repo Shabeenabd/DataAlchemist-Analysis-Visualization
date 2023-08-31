@@ -42,6 +42,7 @@ Informed Decision-Making: Visual insights empower decision-makers with the abili
 Public Awareness: Interactive visuals demystify data for the general public, enhancing awareness and understanding of the pandemic's complexities.
 Resource Allocation: Geospatial insights guide targeted resource allocation, directing efforts where they are needed most.
 Scientific Insights: Data visualization unveils patterns that researchers can harness for deeper scientific understanding.
+https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/COVID_DASHBOARD_16916884847960/Dashboard1
 
 -------------------------------------------------------------------------------
 3)  Data Cleaning in SQL for Housing Data
