@@ -1,7 +1,7 @@
 Step into a world of data-driven understanding with my crafted Tableau dashboard focused on COVID-19. 
 This dashboard transforms raw statistics into visual stories, offering a comprehensive snapshot of the pandemic's impact.
-
-------------------- LINK FOR THE COVID_DASHBOARD IN TABLEAU ----------------------------------------------------------------------
+LINK FOR THE COVID_DASHBOARD IN TABLEAU
+-------------------------------------------------------------------------------------------------------------------------------
 
 https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/COVID_DASHBOARD_16916884847960/Dashboard1
 
