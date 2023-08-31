@@ -63,6 +63,7 @@ Data cleaning in SQL involves a series of precise steps:
   compared and understanded European football club with my data analysis and visualization project spanning the years 2000 to 2021. Through  data and compelling visuals, I'm unraveling the evolution of football clubs, charting their achievements, strategies, and shifts in performance. Delve into the intricate tapestry of wins, losses, and strategies, as I bring to life the story of European football clubs over two exhilarating decades. Experience the power of data as it paints a vivid picture of the game's progression, unveiling insights that enrich our understanding of this passionate sport.
 
 link to the tableau dashboard 
+
 https://public.tableau.com/views/EUROPEANFOOTBALLCLUB2000-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ------------------------------------------------------------------------------------
