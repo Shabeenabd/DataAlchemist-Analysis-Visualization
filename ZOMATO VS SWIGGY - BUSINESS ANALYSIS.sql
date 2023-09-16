@@ -1,3 +1,4 @@
+https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/ZOMATO-SWIGGY_BUSINESS_ANALYSIS/Dashboard1
 use amazon;
 drop table if exists swiggy;
 create table swiggy(
