@@ -67,3 +67,13 @@ Data cleaning in SQL involves a series of precise steps:
 [ European football club Tableau Dashboard](https://public.tableau.com/views/EUROPEANFOOTBALLCLUB2000-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ------------------------------------------------------------------------------------
+## 5) Amazon Sales Insights
+This data analysis project explores the sales data from Amazon, aiming to derive valuable insights into the performance of products and overall sales trends. By leveraging data visualization and statistical analysis, we uncover patterns, identify top-selling items, and provide actionable recommendations for enhancing sales strategies.
+[Amazon Sales Insights.sql]
+**Key Features**
+
+**Sales Trends :** Analyze historical sales data to identify patterns and trends over time.<br/>
+**Product Performance :** Evaluate the performance of individual products, identifying top sellers and potential areas for improvement.<br/>
+**Customer Behavior :** Explore customer purchasing behavior to understand preferences and optimize marketing strategies.<br/>
+**Seasonal Analysis :** Examine sales variations based on seasons or specific time frames.<br/>
+[Amazon Sales Insights Tableau Dashboard] 
