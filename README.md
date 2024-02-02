@@ -69,7 +69,7 @@ Data cleaning in SQL involves a series of precise steps:
 ------------------------------------------------------------------------------------
 ## 5) Amazon Sales Insights
 This data analysis project explores the sales data from Amazon, aiming to derive valuable insights into the performance of products and overall sales trends. By leveraging data visualization and statistical analysis, we uncover patterns, identify top-selling items, and provide actionable recommendations for enhancing sales strategies.
-[Amazon Sales Insights.sql]
+[Amazon Sales Insights.sql](https://github.com/Shabeenabd/PORTFOLIO_PROJECTS/blob/91444c31b8dae6ef2850273e6c84c58ebc402a13/AMAZON_SALES-INSIGHTS.sql)<br/><br/>
 **Key Features**
 
 **Sales Trends :** Analyze historical sales data to identify patterns and trends over time.<br/>
