@@ -1,5 +1,5 @@
 # Portfolio_Projects
-**1)  My COVID-19 Data Analysis Journey with SQL**
+## 1)  My COVID-19 Data Analysis Journey with SQL
 
  In a world shaped by the pandemic, I embarked on a compelling journey of data exploration, armed with SQL as my compass. My project revolved around analyzing COVID-19 data, unraveling patterns and insights hidden within the numbers.
 
@@ -30,7 +30,7 @@ My SQL-driven journey into COVID-19 data analysis has been an enlightening adven
 In a world where information is a guiding light, my SQL project has illuminated the path forward, proving the remarkable impact of technology and data-driven insights in the face of global adversity.
 
 -------------------------------------------------------------------------------
-2)  Visualizing COVID-19 Data with Tableau
+## 2)  Visualizing COVID-19 Data with Tableau
 
 In a world grappling with a global pandemic, harnessing the power of data visualization becomes paramount. Enter Tableau, a tool that transforms raw COVID-19 statistics into captivating visual stories. This data visualization journey brings to life the intricate patterns, trends, and impacts of the virus, enabling us to comprehend the unseen through compelling visuals.
 
@@ -45,7 +45,7 @@ Scientific Insights: Data visualization unveils patterns that researchers can ha
 https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/COVID_DASHBOARD_16916884847960/Dashboard1
 
 -------------------------------------------------------------------------------
-3)  Data Cleaning in SQL for Housing Data
+## 3)  Data Cleaning in SQL for Housing Data
 
 In the world of data analysis, the journey often begins with raw, unrefined data. Enter data cleaning in SQL—a meticulous process that transforms a cluttered dataset into a polished gem of insights. With housing data as the canvas, this practice becomes paramount to revealing accurate trends and making informed decisions.
 
@@ -58,7 +58,7 @@ Data cleaning in SQL involves a series of precise steps:
 - Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
  
   -------------------------------------------------------------------------------
-4) European football club (2000-2021)
+## 4) European football club (2000-2021)
 
   compared and understanded European football club with my data analysis and visualization project spanning the years 2000 to 2021. Through  data and compelling visuals, I'm unraveling the evolution of football clubs, charting their achievements, strategies, and shifts in performance. Delve into the intricate tapestry of wins, losses, and strategies, as I bring to life the story of European football clubs over two exhilarating decades. Experience the power of data as it paints a vivid picture of the game's progression, unveiling insights that enrich our understanding of this passionate sport.
 
