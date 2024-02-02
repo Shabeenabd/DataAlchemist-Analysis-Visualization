@@ -28,6 +28,7 @@ My COVID-19 data analysis using SQL uncovered significant insights:
 My SQL-driven journey into COVID-19 data analysis has been an enlightening adventure. As the world grapples with the pandemic's uncertainties, my project stands as a testament to the power of data analysis in navigating complex challenges and making informed decisions that shape our present and future.
 
 In a world where information is a guiding light, my SQL project has illuminated the path forward, proving the remarkable impact of technology and data-driven insights in the face of global adversity.
+[ Covid Analysis ]     
 -------------------------------------------------------------------------------
 ## 2)  Visualizing COVID-19 Data with Tableau
 
@@ -62,8 +63,6 @@ Data cleaning in SQL involves a series of precise steps:
 
   compared and understanded European football club with my data analysis and visualization project spanning the years 2000 to 2021. Through  data and compelling visuals, I'm unraveling the evolution of football clubs, charting their achievements, strategies, and shifts in performance. Delve into the intricate tapestry of wins, losses, and strategies, as I bring to life the story of European football clubs over two exhilarating decades. Experience the power of data as it paints a vivid picture of the game's progression, unveiling insights that enrich our understanding of this passionate sport.
 
-link to the tableau dashboard 
-
-https://public.tableau.com/views/EUROPEANFOOTBALLCLUB2000-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+[ European football club Tableau Dashboard](https://public.tableau.com/views/EUROPEANFOOTBALLCLUB2000-2021/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ------------------------------------------------------------------------------------
