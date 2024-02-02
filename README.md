@@ -77,3 +77,14 @@ This data analysis project explores the sales data from Amazon, aiming to derive
 **Customer Behavior :** Explore customer purchasing behavior to understand preferences and optimize marketing strategies.<br/>
 **Seasonal Analysis :** Examine sales variations based on seasons or specific time frames.<br/>
 [Amazon Sales Insights Tableau Dashboard](https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/AMAZON-SALESINSIGHTS/Dashboard1)
+
+----------------------------------------------------------------------------------
+## 6) Zomato vs Swiggy - Business Analysis
+This data analysis project explores the dynamic landscape of online food delivery services, focusing on the competition between Zomato and Swiggy. Through meticulous examination of user reviews, delivery times, restaurant partnerships, and customer satisfaction metrics, we aim to gain insights into the strengths and weaknesses of these platforms. The findings will not only shed light on the preferences of users but also provide valuable information for businesses and consumers alike in the ever-evolving realm of food delivery.
+[Zomato vs Swiggy - Dashboard]
+
+---------------------------------------------------------------------------------
+## 7) Movie Ratings
+This project explores the fascinating world of movie ratings, delving into diverse aspects such as viewer preferences, genre popularity, and the impact of critical acclaim on box office performance. Through comprehensive data analysis and visualization, we uncover patterns, trends, and interesting insights within the vast realm of cinema. Whether you're a film enthusiast or a data aficionado, join us in unraveling the stories hidden in the numbers behind your favorite movies.
+[Movie Ratings Analysis.ipynb]
+
