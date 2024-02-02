@@ -86,5 +86,5 @@ This data analysis project explores the dynamic landscape of online food deliver
 ---------------------------------------------------------------------------------
 ## 7) Movie Ratings
 This project explores the fascinating world of movie ratings, delving into diverse aspects such as viewer preferences, genre popularity, and the impact of critical acclaim on box office performance. Through comprehensive data analysis and visualization, we uncover patterns, trends, and interesting insights within the vast realm of cinema. Whether you're a film enthusiast or a data aficionado, join us in unraveling the stories hidden in the numbers behind your favorite movies.
-[Movie Ratings Analysis.ipynb]
+[Movie Ratings Analysis.ipynb](https://github.com/Shabeenabd/PORTFOLIO_PROJECTS/blob/289d7ae5440ad2c4aa737713240a95b0d4ea40db/MOVIE_RATINGS%20(%20CORRELATION_ANALYSIS).ipynb)
 
