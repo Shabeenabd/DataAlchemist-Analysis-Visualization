@@ -76,4 +76,4 @@ This data analysis project explores the sales data from Amazon, aiming to derive
 **Product Performance :** Evaluate the performance of individual products, identifying top sellers and potential areas for improvement.<br/>
 **Customer Behavior :** Explore customer purchasing behavior to understand preferences and optimize marketing strategies.<br/>
 **Seasonal Analysis :** Examine sales variations based on seasons or specific time frames.<br/>
-[Amazon Sales Insights Tableau Dashboard] 
+[Amazon Sales Insights Tableau Dashboard](https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/AMAZON-SALESINSIGHTS/Dashboard1)
