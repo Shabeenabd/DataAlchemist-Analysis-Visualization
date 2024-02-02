@@ -81,10 +81,12 @@ This data analysis project explores the sales data from Amazon, aiming to derive
 ----------------------------------------------------------------------------------
 ## 6) Zomato vs Swiggy - Business Analysis
 This data analysis project explores the dynamic landscape of online food delivery services, focusing on the competition between Zomato and Swiggy. Through meticulous examination of user reviews, delivery times, restaurant partnerships, and customer satisfaction metrics, we aim to gain insights into the strengths and weaknesses of these platforms. The findings will not only shed light on the preferences of users but also provide valuable information for businesses and consumers alike in the ever-evolving realm of food delivery.
-[Zomato vs Swiggy - Dashboard]
+
+[Zomato vs Swiggy - Dashboard](https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/ZOMATO-SWIGGY_BUSINESS_ANALYSIS/Dashboard1)
 
 ---------------------------------------------------------------------------------
 ## 7) Movie Ratings
 This project explores the fascinating world of movie ratings, delving into diverse aspects such as viewer preferences, genre popularity, and the impact of critical acclaim on box office performance. Through comprehensive data analysis and visualization, we uncover patterns, trends, and interesting insights within the vast realm of cinema. Whether you're a film enthusiast or a data aficionado, join us in unraveling the stories hidden in the numbers behind your favorite movies.
+
 [Movie Ratings Analysis.ipynb](https://github.com/Shabeenabd/PORTFOLIO_PROJECTS/blob/289d7ae5440ad2c4aa737713240a95b0d4ea40db/MOVIE_RATINGS%20(%20CORRELATION_ANALYSIS).ipynb)
 
