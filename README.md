@@ -28,7 +28,7 @@ My COVID-19 data analysis using SQL uncovered significant insights:
 My SQL-driven journey into COVID-19 data analysis has been an enlightening adventure. As the world grapples with the pandemic's uncertainties, my project stands as a testament to the power of data analysis in navigating complex challenges and making informed decisions that shape our present and future.
 
 In a world where information is a guiding light, my SQL project has illuminated the path forward, proving the remarkable impact of technology and data-driven insights in the face of global adversity.
-[ Covid Analysis ](https://github.com/Shabeenabd/PORTFOLIO_PROJECTS/blob/22f926f6ab3569db3aac8471b8d8313b18364c85/AMAZON_SALES-INSIGHTS.sql)
+### [ Covid Analysis ](https://github.com/Shabeenabd/PORTFOLIO_PROJECTS/blob/22f926f6ab3569db3aac8471b8d8313b18364c85/AMAZON_SALES-INSIGHTS.sql)
 -------------------------------------------------------------------------------
 ## 2)  Visualizing COVID-19 Data with Tableau
 
@@ -43,7 +43,7 @@ Public Awareness: Interactive visuals demystify data for the general public, enh
 Resource Allocation: Geospatial insights guide targeted resource allocation, directing efforts where they are needed most.
 Scientific Insights: Data visualization unveils patterns that researchers can harness for deeper scientific understanding.
 
-  [Covid Dashboard](https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/COVID_DASHBOARD_16916884847960/Dashboard1)
+[Covid Dashboard](https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/COVID_DASHBOARD_16916884847960/Dashboard1)
 
 -------------------------------------------------------------------------------
 ## 3)  Data Cleaning in SQL for Housing Data
@@ -57,7 +57,8 @@ Data cleaning in SQL involves a series of precise steps:
 - Standardizing Formats: Ensuring consistent formats for data like dates, addresses, or currencies guarantees accurate computations.
 - Resolving Duplicates: Detecting and eliminating duplicate entries maintains data integrity and prevents skewing results.
 - Handling Incorrect Values: Identifying and rectifying incorrect data entries minimizes the risk of incorrect conclusions.
- 
+
+### [Housing Data cleaning.sql](https://github.com/Shabeenabd/PORTFOLIO_PROJECTS/blob/63825d73b304c3f43a7ef4037a7635b0a74122ee/DATA_CLEANING_PROJECT%20%7C%7C%20HOUSING_DATA.sql)
   -------------------------------------------------------------------------------
 ## 4) European football club (2000-2021)
 
