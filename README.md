@@ -10,15 +10,24 @@ Welcome to **Data Alchemist**, a collection of real-world data analysis and visu
 - Processed large datasets to uncover sales trends, top-selling categories, and region-wise performance.
 - Created interactive Tableau dashboards for powerful visual storytelling.
 
-### 🦠 COVID-19 Data Analysis
+### 🦠 COVID-19 Data Analytics
 - Explored global and country-specific pandemic trends.
 - Visualized case spikes, recovery rates, and impact using Python & Matplotlib/Seaborn.
 
-### ⚽ Football Data Analysis
+### ⚽ Football Metrics
 - Analyzed player stats, team performance, and match outcomes.
 - Insights into top scorers, win probabilities, and match trends.
 
-### 🍔 Swiggy & Zomato Sales Analysis
+### 🏠 Housing Graph
+- Cleaned and processed a dataset containing housing attributes such as number of bedrooms, square footage, location, year built, etc.
+- Detected underpriced and overpriced properties in specific regions.
+- Found that location, size, and condition are top factors influencing price.
+
+### 🎥 Movie Scope
+- Analyzed movie ratings to explore viewer preferences, top-rated movies, and rating distribution.
+- Identified trends based on genres, user behavior, and popularity to uncover what makes a movie well-rated.
+
+### 🍔 Swiggy & Zomato Business Analysis
 - Studied food order patterns, peak hours, and top cuisines.
 - Derived business insights from real-time-like food delivery data.
 
