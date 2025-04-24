@@ -1,10 +1,16 @@
 # 🍔 Zomato vs Swiggy - Business Analysis
-This data analysis project explores the dynamic landscape of online food delivery services, focusing on the competition between Zomato and Swiggy. Through meticulous examination of user reviews, delivery times, restaurant partnerships, and customer satisfaction metrics, we aim to gain insights into the strengths and weaknesses of these platforms. The findings will not only shed light on the preferences of users but also provide valuable information for businesses and consumers alike in the ever-evolving realm of food delivery.
+- **🎯 Objective**  
+Analyze and compare the performance of Zomato and Swiggy to understand user preferences and platform strengths.
+- **💬 User Sentiment Analysis**   
+Dive deep into user reviews to uncover what customers love or dislike about each platform.
+- **⏱️ Delivery Performance**   
+Compare average delivery times and evaluate punctuality to gauge operational efficiency.
+- **😊 Customer Satisfaction Metrics**  
+Assess ratings, feedback trends, and loyalty indicators to measure overall customer satisfaction.
+- **📊 Business Insights**   
+Highlight actionable insights for restaurants, delivery partners, and platform stakeholders to improve services.
 
-TABLEAU LINK
 ------------
- https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/ZOMATO-SWIGGY_BUSINESS_ANALYSIS/Dashboard1
+ 🚀 Checkout the Tableau Dashboard - [Zomato vs Swiggy Analytics](https://public.tableau.com/app/profile/shabeen.abdul.varis/viz/ZOMATO-SWIGGY_BUSINESS_ANALYSIS/Dashboard1)
 
---------------------------------------
-SQL CODE
- ------
+----------------
